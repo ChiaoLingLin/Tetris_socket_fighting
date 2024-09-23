@@ -33,4 +33,6 @@
 
 **注意：** 在開始遊戲之前，請確保您的環境中已經安裝了 C 語言的編譯器以及相關的套件。
 
+成果展示影片 https://youtu.be/CvrIOZKiwG8?feature=shared
+
 
