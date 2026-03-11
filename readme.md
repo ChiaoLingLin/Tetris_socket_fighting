@@ -35,5 +35,5 @@
 
 成果展示影片 https://youtu.be/CvrIOZKiwG8?feature=shared
 
-## 作者
+## 實作成員
 林巧翎、王家欣
